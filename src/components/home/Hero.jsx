@@ -13,7 +13,7 @@ const Hero = () => {
       </div>
       {/* End .container */}
 
-      <div className="mouse_scroll">
+{/*       <div className="mouse_scroll">
         <a href="#about">
           <div className="icon">
             <h4>Scroll down</h4>
@@ -28,7 +28,7 @@ const Hero = () => {
             />
           </div>
         </a>
-      </div>
+      </div> */}
     </section>
   );
 };
